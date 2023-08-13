@@ -29,7 +29,7 @@ accounts_number =int(input("How many accounts would like to create: "))
 catchall= input("Please input your catchall domain: ")
 password= input("Please input the password you would like to use: ")
 
-
+/mnt/chromeos/MyFiles/Downloads/chromedriver_linux64
 def main(accounts_number):
     print("Let's Go!!")
     
